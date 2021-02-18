@@ -7,6 +7,8 @@
 @Author : 91317
 @Time   : 2021/2/9 
 """
+def func2():
+    print("branch")
 
 if __name__ == '__main__':
     
