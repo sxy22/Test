@@ -11,6 +11,7 @@ def func2():
     print("branch")
     x = 1
     z = 1
+    y = 1
 
 def func1():
     print("master")
