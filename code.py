@@ -8,6 +8,9 @@
 @Time   : 2021/2/9 
 """
 
+def func1():
+    print("master")
+
 if __name__ == '__main__':
     
     print('first line')
